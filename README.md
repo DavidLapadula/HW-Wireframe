@@ -5,7 +5,7 @@ This project was created to practice basic styling and placement with only HTML 
 As my developer journey begins, I realize the first step is getting comfortable with basic layout technologies. 
 
 ## Screenshots
-![](screenshot.jpg)  
+![](screenshot.jpeg)     
 
 ## Tech/framework used
 
