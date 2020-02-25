@@ -1,9 +1,6 @@
 ## Wireframe Test
 This project was created to practice basic styling and placement with only HTML and CSS. 
 
-## Motivation
-As my developer journey begins, I realize the first step is getting comfortable with basic layout technologies. 
-
 ## Screenshots
 ![](screenshot.jpeg)     
 
